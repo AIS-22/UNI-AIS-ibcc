@@ -1,0 +1,4004 @@
+   name  epoch  train_loss  val_loss
+0  Last      0    0.893985  0.606839
+1  Best      0    0.893985  0.606839
+
+   name  epoch  train_loss  val_loss
+0  Last      0    1.448818  8.954205
+1  Best      0    1.448818  8.954205
+
+   name  epoch  train_loss  val_loss
+0  Last      1    0.637236  0.513704
+1  Best      1    0.637236  0.513704
+
+   name  epoch  train_loss  val_loss
+0  Last      2    0.390463  0.463797
+1  Best      2    0.390463  0.463797
+
+   name  epoch  train_loss  val_loss
+0  Last      3    0.368002  0.396296
+1  Best      3    0.368002  0.396296
+
+   name  epoch  train_loss  val_loss
+0  Last      4    0.345554   0.34548
+1  Best      4    0.345554   0.34548
+
+   name  epoch  train_loss  val_loss
+0  Last      5    0.335769  0.373068
+1  Best      4    0.345554  0.345480
+
+   name  epoch  train_loss  val_loss
+0  Last      6    0.338735  0.332232
+1  Best      6    0.338735  0.332232
+
+   name  epoch  train_loss  val_loss
+0  Last      7     0.31279  0.299227
+1  Best      7     0.31279  0.299227
+
+   name  epoch  train_loss  val_loss
+0  Last      8    0.299384  0.425306
+1  Best      7    0.312790  0.299227
+
+   name  epoch  train_loss  val_loss
+0  Last      9    0.288077  0.368205
+1  Best      7    0.312790  0.299227
+
+   name  epoch  train_loss  val_loss
+0  Last     10    0.278927  0.279529
+1  Best     10    0.278927  0.279529
+
+   name  epoch  train_loss  val_loss
+0  Last     11    0.281307  0.438927
+1  Best     10    0.278927  0.279529
+
+   name  epoch  train_loss  val_loss
+0  Last     12    0.293820  0.380485
+1  Best     10    0.278927  0.279529
+
+   name  epoch  train_loss  val_loss
+0  Last     13    0.284611  0.315995
+1  Best     10    0.278927  0.279529
+
+   name  epoch  train_loss  val_loss
+0  Last     14    0.278648  0.367278
+1  Best     10    0.278927  0.279529
+
+   name  epoch  train_loss  val_loss
+0  Last     15    0.270402  0.274701
+1  Best     15    0.270402  0.274701
+
+   name  epoch  train_loss  val_loss
+0  Last     16    0.259816  0.322739
+1  Best     15    0.270402  0.274701
+
+   name  epoch  train_loss  val_loss
+0  Last     17    0.254662  0.283236
+1  Best     15    0.270402  0.274701
+
+   name  epoch  train_loss  val_loss
+0  Last     18    0.249447  0.382709
+1  Best     15    0.270402  0.274701
+
+   name  epoch  train_loss  val_loss
+0  Last     19    0.244229  0.269697
+1  Best     19    0.244229  0.269697
+
+   name  epoch  train_loss  val_loss
+0  Last     20    0.240933  0.226426
+1  Best     20    0.240933  0.226426
+
+   name  epoch  train_loss  val_loss
+0  Last     21    0.237764  0.237775
+1  Best     20    0.240933  0.226426
+
+   name  epoch  train_loss  val_loss
+0  Last     22    0.236392  0.224307
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     23    0.245663  0.269052
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     24    0.261239  0.618979
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     25    0.254210  0.290989
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     26    0.248598  0.417505
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     27    0.244344  0.279004
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     28    0.241091  0.302605
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     29    0.238097  0.287625
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     30    0.235549  0.486511
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     31    0.233930  0.480672
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     32    0.234108  0.433165
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     33    0.229540  0.282882
+1  Best     22    0.236392  0.224307
+
+   name  epoch  train_loss  val_loss
+0  Last     34    0.225289  0.223076
+1  Best     34    0.225289  0.223076
+
+   name  epoch  train_loss  val_loss
+0  Last     35    0.222812  0.298372
+1  Best     34    0.225289  0.223076
+
+   name  epoch  train_loss  val_loss
+0  Last     36    0.219511  0.223173
+1  Best     34    0.225289  0.223076
+
+   name  epoch  train_loss  val_loss
+0  Last     37    0.216587  0.283297
+1  Best     34    0.225289  0.223076
+
+   name  epoch  train_loss  val_loss
+0  Last     38    0.215017  0.209566
+1  Best     38    0.215017  0.209566
+
+   name  epoch  train_loss  val_loss
+0  Last     39    0.211716  0.203226
+1  Best     39    0.211716  0.203226
+
+   name  epoch  train_loss  val_loss
+0  Last     40    0.209897  0.315108
+1  Best     39    0.211716  0.203226
+
+   name  epoch  train_loss  val_loss
+0  Last     41    0.208563  0.249242
+1  Best     39    0.211716  0.203226
+
+   name  epoch  train_loss  val_loss
+0  Last     42    0.206716  0.201076
+1  Best     42    0.206716  0.201076
+
+   name  epoch  train_loss  val_loss
+0  Last     43    0.205012  0.195701
+1  Best     43    0.205012  0.195701
+
+   name  epoch  train_loss  val_loss
+0  Last     44    0.205360  0.196120
+1  Best     43    0.205012  0.195701
+
+   name  epoch  train_loss  val_loss
+0  Last     45    0.203912  0.194249
+1  Best     45    0.203912  0.194249
+
+   name  epoch  train_loss  val_loss
+0  Last     46    0.203718  0.193513
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     47    0.221036  0.242544
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     48    0.227824  0.335622
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     49    0.226069  0.279873
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     50    0.227156  0.229975
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     51    0.221793  0.329747
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     52    0.219485  0.439479
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     53    0.216356  0.380255
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     54    0.215605  0.396441
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     55    0.213683  0.206078
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     56    0.213319  0.227477
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     57    0.210419  0.324889
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     58    0.208577  0.323801
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     59    0.206731  0.296181
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     60    0.205321  0.208835
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     61    0.204240  0.253358
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     62    0.203311  0.291128
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     63    0.200862  0.196595
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     64    0.199864  0.359624
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     65    0.199046  0.213094
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     66    0.198356  0.207935
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     67    0.195682  0.239384
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     68    0.195580  0.251867
+1  Best     46    0.203718  0.193513
+
+   name  epoch  train_loss  val_loss
+0  Last     69    0.193067  0.188852
+1  Best     69    0.193067  0.188852
+
+   name  epoch  train_loss  val_loss
+0  Last     70    0.191151  0.205210
+1  Best     69    0.193067  0.188852
+
+   name  epoch  train_loss  val_loss
+0  Last     71    0.190546  0.341505
+1  Best     69    0.193067  0.188852
+
+   name  epoch  train_loss  val_loss
+0  Last     72    0.189329  0.206408
+1  Best     69    0.193067  0.188852
+
+   name  epoch  train_loss  val_loss
+0  Last     73    0.188140  0.329167
+1  Best     69    0.193067  0.188852
+
+   name  epoch  train_loss  val_loss
+0  Last     74    0.186680  0.205739
+1  Best     69    0.193067  0.188852
+
+   name  epoch  train_loss  val_loss
+0  Last     75    0.183950  0.218008
+1  Best     69    0.193067  0.188852
+
+   name  epoch  train_loss  val_loss
+0  Last     76    0.184363   0.18524
+1  Best     76    0.184363   0.18524
+
+   name  epoch  train_loss  val_loss
+0  Last     77    0.183154  0.225301
+1  Best     76    0.184363  0.185240
+
+   name  epoch  train_loss  val_loss
+0  Last     78    0.181892   0.18669
+1  Best     76    0.184363   0.18524
+
+   name  epoch  train_loss  val_loss
+0  Last     79    0.180291  0.187904
+1  Best     76    0.184363  0.185240
+
+   name  epoch  train_loss  val_loss
+0  Last     80    0.179320  0.198556
+1  Best     76    0.184363  0.185240
+
+   name  epoch  train_loss  val_loss
+0  Last     81    0.176864  0.180682
+1  Best     81    0.176864  0.180682
+
+   name  epoch  train_loss  val_loss
+0  Last     82    0.176192  0.202766
+1  Best     81    0.176864  0.180682
+
+   name  epoch  train_loss  val_loss
+0  Last     83     0.17512  0.179451
+1  Best     83     0.17512  0.179451
+
+   name  epoch  train_loss  val_loss
+0  Last     84    0.175018  0.188560
+1  Best     83    0.175120  0.179451
+
+   name  epoch  train_loss  val_loss
+0  Last     85    0.173889  0.180362
+1  Best     83    0.175120  0.179451
+
+   name  epoch  train_loss  val_loss
+0  Last     86    0.172925  0.171996
+1  Best     86    0.172925  0.171996
+
+   name  epoch  train_loss  val_loss
+0  Last     87    0.172150  0.175449
+1  Best     86    0.172925  0.171996
+
+   name  epoch  train_loss  val_loss
+0  Last     88    0.172337   0.17064
+1  Best     88    0.172337   0.17064
+
+   name  epoch  train_loss  val_loss
+0  Last     89    0.170175  0.173326
+1  Best     88    0.172337  0.170640
+
+   name  epoch  train_loss  val_loss
+0  Last     90     0.17095   0.16928
+1  Best     90     0.17095   0.16928
+
+   name  epoch  train_loss  val_loss
+0  Last     91    0.170806  0.170232
+1  Best     90    0.170950  0.169280
+
+   name  epoch  train_loss  val_loss
+0  Last     92    0.169911  0.169275
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last     93    0.169927  0.169391
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last     94    0.175538  0.314354
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last     95    0.201113  0.238884
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last     96    0.196089  0.359987
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last     97    0.194170  0.338239
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last     98    0.193058  0.263104
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last     99    0.191501  0.480837
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    100    0.190091  0.376240
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    101    0.189501  0.216581
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    102    0.187002  0.196992
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    103    0.185756  0.368998
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    104    0.183720  0.365483
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    105    0.184178  0.223247
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    106    0.184335  0.320393
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    107    0.182245  0.467811
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    108    0.182899  0.337974
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    109    0.180626  0.199620
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    110    0.178850  0.270134
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    111    0.178840  0.362452
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    112    0.177561  0.222595
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    113    0.177598  0.241041
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    114    0.175618  0.368236
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    115    0.174862  0.184398
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    116    0.173439  0.182508
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    117    0.174380  0.434128
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    118    0.172632  0.208587
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    119    0.171458  0.257471
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    120    0.171163  0.196378
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    121    0.171038  0.377454
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    122    0.170478  0.185585
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    123    0.168981  0.295053
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    124    0.168521  0.367704
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    125    0.166983  0.327192
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    126    0.167879  0.326335
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    127    0.165768  0.330746
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    128    0.164465  0.390629
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    129    0.163322  0.245983
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    130    0.162934  0.403538
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    131    0.161432  0.190225
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    132    0.161882  0.322715
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    133    0.160913  0.278981
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    134    0.159718  0.373090
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    135    0.160731  0.395914
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    136    0.159551  0.242282
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    137    0.157374  0.213847
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    138    0.157115  0.374667
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    139    0.156538  0.251310
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    140    0.155789  0.258033
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    141    0.155632  0.200901
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    142    0.154926  0.171285
+1  Best     92    0.169911  0.169275
+
+   name  epoch  train_loss  val_loss
+0  Last    143    0.154371  0.164931
+1  Best    143    0.154371  0.164931
+
+   name  epoch  train_loss  val_loss
+0  Last    144    0.152145  0.281536
+1  Best    143    0.154371  0.164931
+
+   name  epoch  train_loss  val_loss
+0  Last    145    0.150846  0.207663
+1  Best    143    0.154371  0.164931
+
+   name  epoch  train_loss  val_loss
+0  Last    146    0.151028  0.231333
+1  Best    143    0.154371  0.164931
+
+   name  epoch  train_loss  val_loss
+0  Last    147    0.149241  0.193008
+1  Best    143    0.154371  0.164931
+
+   name  epoch  train_loss  val_loss
+0  Last    148    0.149585  0.337002
+1  Best    143    0.154371  0.164931
+
+   name  epoch  train_loss  val_loss
+0  Last    149    0.148602   0.16273
+1  Best    149    0.148602   0.16273
+
+   name  epoch  train_loss  val_loss
+0  Last    150    0.147346  0.220554
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    151    0.147104  0.215143
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    152    0.145510  0.268901
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    153    0.146313  0.171049
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    154    0.145514  0.357669
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    155    0.144132  0.201403
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    156    0.143666  0.193857
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    157    0.142302  0.382023
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    158    0.141451  0.333054
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    159    0.140265  0.215561
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    160    0.140574  0.166736
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    161    0.139668   0.32765
+1  Best    149    0.148602   0.16273
+
+   name  epoch  train_loss  val_loss
+0  Last    162    0.139922  0.168485
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    163    0.138181  0.237553
+1  Best    149    0.148602  0.162730
+
+   name  epoch  train_loss  val_loss
+0  Last    164    0.137374  0.156926
+1  Best    164    0.137374  0.156926
+
+   name  epoch  train_loss  val_loss
+0  Last    165    0.137251  0.158643
+1  Best    164    0.137374  0.156926
+
+   name  epoch  train_loss  val_loss
+0  Last    166    0.137378  0.161306
+1  Best    164    0.137374  0.156926
+
+   name  epoch  train_loss  val_loss
+0  Last    167    0.136518  0.198552
+1  Best    164    0.137374  0.156926
+
+   name  epoch  train_loss  val_loss
+0  Last    168    0.136212  0.182492
+1  Best    164    0.137374  0.156926
+
+   name  epoch  train_loss  val_loss
+0  Last    169    0.135258  0.210583
+1  Best    164    0.137374  0.156926
+
+   name  epoch  train_loss  val_loss
+0  Last    170    0.134889  0.156609
+1  Best    170    0.134889  0.156609
+
+   name  epoch  train_loss  val_loss
+0  Last    171    0.134628  0.157697
+1  Best    170    0.134889  0.156609
+
+   name  epoch  train_loss  val_loss
+0  Last    172    0.134513  0.154809
+1  Best    172    0.134513  0.154809
+
+   name  epoch  train_loss  val_loss
+0  Last    173    0.133768  0.160827
+1  Best    172    0.134513  0.154809
+
+   name  epoch  train_loss  val_loss
+0  Last    174    0.133191  0.155287
+1  Best    172    0.134513  0.154809
+
+   name  epoch  train_loss  val_loss
+0  Last    175    0.132948  0.155320
+1  Best    172    0.134513  0.154809
+
+   name  epoch  train_loss  val_loss
+0  Last    176    0.132467  0.206179
+1  Best    172    0.134513  0.154809
+
+   name  epoch  train_loss  val_loss
+0  Last    177    0.132287  0.154037
+1  Best    177    0.132287  0.154037
+
+   name  epoch  train_loss  val_loss
+0  Last    178    0.131533  0.152513
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    179    0.131879  0.154888
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    180    0.131395  0.153967
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    181    0.131974  0.153018
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    182    0.130918  0.154212
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    183    0.130516  0.153849
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    184    0.130933  0.155700
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    185    0.130377  0.153377
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    186    0.130764  0.152919
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    187    0.130852  0.152930
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    188    0.130826  0.154784
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    189    0.140364  0.275648
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    190    0.160049  0.234284
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    191    0.158204  0.359150
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    192    0.160156  0.591630
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    193    0.158690  0.193702
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    194    0.159718  0.266420
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    195    0.156712  0.368002
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    196    0.155752  0.396851
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    197    0.155508  0.172439
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    198    0.154508  0.383906
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    199    0.153986  0.174116
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    200    0.153110  0.369535
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    201    0.152018  0.365465
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    202    0.152405  0.202738
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    203    0.151105  0.304535
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    204    0.150847  0.215241
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    205    0.149198  0.254829
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    206    0.148568  0.437645
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    207    0.148890  0.421559
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    208    0.150486  0.340821
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    209    0.149344  0.389853
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    210    0.149317  0.241640
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    211    0.148216  0.441383
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    212    0.147152  0.163268
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    213    0.145015  0.188325
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    214    0.145005  0.253604
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    215    0.146325  0.234036
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    216    0.145322  0.183977
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    217    0.143771  0.355323
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    218    0.143425  0.325646
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    219    0.143394  0.227450
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    220    0.142093  0.302263
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    221    0.142160  0.285024
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    222    0.141129  0.177044
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    223    0.140720  0.225633
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    224    0.142256  0.290784
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    225    0.142335  0.170938
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    226    0.140428  0.442153
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    227    0.140584  0.431523
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    228    0.140759  0.205118
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    229    0.138302  0.370564
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    230    0.137472  0.379296
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    231    0.138015  0.261664
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    232    0.137860  0.302610
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    233    0.136745  0.191201
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    234    0.135827  0.287206
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    235    0.136021  0.174602
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    236    0.136033  0.165365
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    237    0.134922  0.324380
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    238    0.135630  0.358893
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    239    0.133911  0.398135
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    240    0.133705  0.183311
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    241    0.133267  0.171353
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    242    0.132261  0.313574
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    243    0.131936  0.176613
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    244    0.130547  0.211042
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    245    0.131335  0.195295
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    246    0.131763  0.195471
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    247    0.129356  0.233052
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    248    0.128995  0.175663
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    249    0.130071  0.384139
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    250    0.130534  0.354703
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    251    0.128151  0.198193
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    252    0.128872  0.167081
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    253    0.128683  0.303471
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    254    0.128350  0.168572
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    255    0.126673  0.287451
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    256    0.126643  0.395261
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    257    0.126698  0.182521
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    258    0.125765  0.305155
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    259    0.125261  0.193478
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    260    0.124656  0.161134
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    261    0.124458  0.171676
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    262    0.124640  0.165973
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    263    0.123606  0.163393
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    264    0.122438  0.366010
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    265    0.121731  0.394201
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    266    0.120752  0.181214
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    267    0.120534  0.209096
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    268    0.121106  0.172027
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    269    0.120272  0.173070
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    270    0.119712  0.167041
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    271    0.119896  0.207098
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    272    0.119307  0.171325
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    273    0.119779  0.168249
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    274    0.118151  0.168231
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    275    0.117475  0.175850
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    276    0.117017  0.175326
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    277    0.116220  0.158617
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    278    0.116479  0.165224
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    279    0.115705  0.162868
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    280    0.116233  0.184553
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    281    0.114296  0.173450
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    282    0.114719  0.301412
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    283    0.114591  0.186986
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    284    0.113439  0.189338
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    285    0.113688  0.168204
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    286    0.112956  0.165561
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    287    0.111714  0.195380
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    288    0.112806  0.180379
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    289    0.111430  0.238655
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    290    0.110588  0.166528
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    291    0.110565  0.226030
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    292    0.110289  0.169967
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    293    0.109911  0.263910
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    294    0.110062  0.206851
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    295    0.110521  0.192662
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    296    0.109369  0.169051
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    297    0.107963  0.275313
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    298    0.108310  0.238858
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    299    0.107659  0.179311
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    300    0.107174  0.197804
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    301    0.106890  0.167724
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    302    0.106644  0.235719
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    303    0.106629  0.165046
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    304    0.105931  0.173002
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    305    0.105465  0.180008
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    306    0.105369  0.185750
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    307    0.104140  0.169618
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    308    0.104812  0.171569
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    309    0.103863  0.181919
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    310    0.103919  0.194666
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    311    0.103869  0.198006
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    312    0.103255  0.165918
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    313    0.102839  0.191547
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    314    0.102791  0.181559
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    315    0.102069  0.175592
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    316    0.102412  0.229634
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    317    0.101171  0.184478
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    318    0.101827  0.172226
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    319    0.100999  0.179657
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    320    0.100637  0.170295
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    321    0.100347  0.171039
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    322    0.100247  0.165162
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    323    0.100226  0.169353
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    324    0.099654  0.167895
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    325    0.099483  0.164948
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    326    0.099554  0.163597
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    327    0.099176  0.165695
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    328    0.099162  0.165247
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    329    0.098957  0.162349
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    330    0.098495  0.167336
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    331    0.097786  0.168826
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    332    0.098052  0.164159
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    333    0.098179  0.175782
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    334    0.097180  0.181664
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    335    0.097183  0.168303
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    336    0.096861  0.167927
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    337    0.096745  0.165608
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    338    0.096817  0.164859
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    339    0.097105  0.165611
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    340    0.096796  0.176974
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    341    0.096141  0.167079
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    342    0.096208  0.165325
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    343    0.095661  0.165814
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    344    0.095808  0.168091
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    345    0.095501  0.165266
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    346    0.094767  0.168426
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    347    0.095129  0.166172
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    348    0.094668  0.165619
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    349    0.094746  0.174593
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    350    0.094664  0.170239
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    351    0.094832  0.165288
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    352    0.094335  0.166299
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    353    0.094351  0.166479
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    354    0.094147  0.165784
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    355    0.094754  0.169352
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    356    0.094188  0.165254
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    357    0.093913  0.167694
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    358    0.093215  0.167553
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    359    0.093783  0.172539
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    360    0.094140  0.165735
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    361    0.093380  0.168930
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    362    0.093187  0.170842
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    363    0.093319  0.167024
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    364    0.093704  0.166893
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    365    0.093135  0.167131
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    366    0.093301  0.165192
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    367    0.093115  0.166660
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    368    0.093049  0.168079
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    369    0.092937  0.169551
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    370    0.093437  0.167107
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    371    0.092826  0.165580
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    372    0.092764  0.166262
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    373    0.093338  0.167259
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    374    0.092383  0.167530
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    375    0.092901  0.167962
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    376    0.092862  0.166782
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    377    0.093588  0.167862
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    378    0.092788  0.169912
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    379    0.109467  0.302633
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    380    0.122763  0.182002
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    381    0.122560  0.196996
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    382    0.122308  0.225466
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    383    0.121202  0.353409
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    384    0.120607  0.252588
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    385    0.121078  0.269783
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    386    0.123543  0.355714
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    387    0.120928  0.415199
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    388    0.119224  0.180299
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    389    0.119279  0.181074
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    390    0.119173  0.171930
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    391    0.118481  0.212579
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    392    0.117549  0.408667
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    393    0.116130  0.406102
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    394    0.118719  0.180299
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    395    0.116579  0.215997
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    396    0.115197  0.449732
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    397    0.115488  0.179900
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    398    0.116342  0.426121
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    399    0.114883  0.232503
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    400    0.114199  0.180171
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    401    0.114534  0.198022
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    402    0.114878  0.190691
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    403    0.113985  0.179383
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    404    0.114253  0.216842
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    405    0.113732  0.392980
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    406    0.112295  0.288611
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    407    0.113743  0.421719
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    408    0.113201  0.338252
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    409    0.111999  0.401353
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    410    0.112370  0.203947
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    411    0.111652  0.215158
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    412    0.110651  0.253445
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    413    0.111442  0.319478
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    414    0.110644  0.197460
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    415    0.109970  0.169534
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    416    0.111379  0.296788
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    417    0.109647  0.184005
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    418    0.109149  0.191670
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    419    0.109632  0.390044
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    420    0.109491  0.206327
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    421    0.108805  0.334864
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    422    0.108290  0.363645
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    423    0.110742  0.242313
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    424    0.108630  0.178531
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    425    0.107632  0.174477
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    426    0.107665  0.172538
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    427    0.107716  0.378428
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    428    0.106922  0.209788
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    429    0.107098  0.271037
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    430    0.106042  0.402129
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    431    0.106767  0.213749
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    432    0.106363  0.380689
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    433    0.105463  0.417431
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    434    0.105514  0.170728
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    435    0.104560  0.194370
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    436    0.104859  0.176238
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    437    0.104095  0.330879
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    438    0.103433  0.255380
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    439    0.104400  0.375660
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    440    0.104278  0.245209
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    441    0.104527  0.202723
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    442    0.104220  0.248163
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    443    0.104742  0.190892
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    444    0.103791  0.197667
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    445    0.103994  0.280709
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    446    0.103114  0.176284
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    447    0.104317  0.191992
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    448    0.104419  0.182013
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    449    0.103373  0.204086
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    450    0.102010  0.182738
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    451    0.102578  0.181398
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    452    0.102269  0.263584
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    453    0.101464  0.270530
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    454    0.101908  0.175147
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    455    0.101613  0.290938
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    456    0.101236  0.171077
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    457    0.101227  0.179603
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    458    0.100781  0.171735
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    459    0.100963  0.172412
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    460    0.100094  0.174506
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    461    0.099585  0.217529
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    462    0.100285  0.356872
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    463    0.099026  0.201384
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    464    0.099646  0.258080
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    465    0.098844  0.231284
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    466    0.098840  0.178031
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    467    0.099061  0.344814
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    468    0.097877  0.228136
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    469    0.098874  0.188374
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    470    0.098309  0.301689
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    471    0.097872  0.184581
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    472    0.097486  0.201077
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    473    0.097443  0.364971
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    474    0.097238  0.176316
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    475    0.096853  0.305017
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    476    0.097360  0.207859
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    477    0.097240  0.182988
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    478    0.096162  0.192685
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    479    0.096838  0.363578
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    480    0.095795  0.191941
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    481    0.096683  0.215460
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    482    0.096509  0.184415
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    483    0.096109  0.188420
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    484    0.095321  0.184650
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    485    0.096620  0.184238
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    486    0.094207  0.181549
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    487    0.094266  0.244230
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    488    0.094129  0.195320
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    489    0.093760  0.206157
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    490    0.094365  0.319709
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    491    0.094594  0.195193
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    492    0.094290  0.199343
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    493    0.093733  0.179521
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    494    0.093594  0.202978
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    495    0.094526  0.194558
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    496    0.094062  0.173406
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    497    0.092769  0.197746
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    498    0.093217  0.188828
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    499    0.092930  0.181645
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    500    0.091863  0.186514
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    501    0.091786  0.212100
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    502    0.092683  0.237922
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    503    0.091883  0.256719
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    504    0.092472  0.190674
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    505    0.091836  0.204412
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    506    0.091094  0.208028
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    507    0.091506  0.281958
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    508    0.090548  0.170851
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    509    0.090572  0.185836
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    510    0.090849  0.271815
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    511    0.090487  0.233162
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    512    0.090278  0.191834
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    513    0.090092  0.191906
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    514    0.090830  0.206615
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    515    0.089490  0.237590
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    516    0.089037  0.277954
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    517    0.089610  0.208899
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    518    0.088529  0.175761
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    519    0.088405  0.174397
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    520    0.088007  0.199568
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    521    0.088533  0.192391
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    522    0.087988  0.189350
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    523    0.088689  0.181345
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    524    0.088745  0.330744
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    525    0.088817  0.179655
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    526    0.088149  0.185772
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    527    0.088499  0.203200
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    528    0.088119  0.209084
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    529    0.087878  0.177595
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    530    0.086925  0.178157
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    531    0.086933  0.180503
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    532    0.086586  0.300262
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    533    0.086474  0.180087
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    534    0.087318  0.180777
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    535    0.086971  0.214681
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    536    0.087505  0.179519
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    537    0.086751  0.212345
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    538    0.086291  0.183303
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    539    0.085445  0.197503
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    540    0.085630  0.277845
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    541    0.084827  0.187800
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    542    0.084978  0.182406
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    543    0.085478  0.183035
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    544    0.084227  0.197869
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    545    0.084522  0.220586
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    546    0.084493  0.195430
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    547    0.084185  0.202206
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    548    0.084776  0.235520
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    549    0.083829  0.189038
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    550    0.082965  0.193806
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    551    0.083725  0.183032
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    552    0.083913  0.236833
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    553    0.083806  0.203957
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    554    0.083513  0.241243
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    555    0.082800  0.178541
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    556    0.083515  0.255737
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    557    0.082663  0.184923
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    558    0.081979  0.182174
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    559    0.083098  0.184949
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    560    0.082275  0.182318
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    561    0.082130  0.190896
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    562    0.082274  0.251737
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    563    0.081955  0.186605
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    564    0.081425  0.182528
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    565    0.082057  0.193005
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    566    0.081598  0.182169
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    567    0.080976  0.190390
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    568    0.081322  0.187448
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    569    0.080414  0.199984
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    570    0.081265  0.183586
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    571    0.081107  0.184667
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    572    0.080910  0.183315
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    573    0.080769  0.184273
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    574    0.080476  0.207861
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    575    0.080319  0.213061
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    576    0.079580  0.184379
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    577    0.079686  0.184304
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    578    0.080163  0.187026
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    579    0.079809  0.184788
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    580    0.079821  0.182234
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    581    0.079056  0.185237
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    582    0.078964  0.194864
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    583    0.079258  0.186449
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    584    0.079516  0.205330
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    585    0.078955  0.228408
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    586    0.078997  0.189017
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    587    0.078717  0.184476
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    588    0.078523  0.231214
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    589    0.077790  0.190626
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    590    0.077798  0.198513
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    591    0.077802  0.184949
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    592    0.077993  0.190850
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    593    0.077633  0.188727
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    594    0.077842  0.185205
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    595    0.077860  0.239283
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    596    0.077403  0.191752
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    597    0.077322  0.187467
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    598    0.076760  0.184647
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    599    0.076957  0.208685
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    600    0.077409  0.188362
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    601    0.076622  0.185718
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    602    0.076181  0.185005
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    603    0.076778  0.188927
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    604    0.076300  0.196837
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    605    0.076605  0.185754
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    606    0.076703  0.188834
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    607    0.076316  0.186747
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    608    0.076455  0.196639
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    609    0.075992  0.193654
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    610    0.075616  0.185337
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    611    0.075698  0.199419
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    612    0.075417  0.187999
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    613    0.075193  0.192053
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    614    0.075228  0.192648
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    615    0.075028  0.190616
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    616    0.075907  0.188487
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    617    0.074743  0.189805
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    618    0.074931  0.201961
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    619    0.074488  0.186225
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    620    0.074489  0.191938
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    621    0.074200  0.190721
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    622    0.074223  0.187457
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    623    0.074304  0.209479
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    624    0.074491  0.186771
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    625    0.074127  0.188380
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    626    0.074117  0.190682
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    627    0.073747  0.203338
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    628    0.073814  0.189063
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    629    0.073832  0.197627
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    630    0.073998  0.189651
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    631    0.073192  0.188679
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    632    0.073154  0.188602
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    633    0.073324  0.191242
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    634    0.073317  0.189449
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    635    0.072875  0.187433
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    636    0.072971  0.194334
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    637    0.072966  0.194863
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    638    0.072547  0.188394
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    639    0.073099  0.187515
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    640    0.072579  0.192165
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    641    0.072446  0.190935
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    642    0.072411  0.190826
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    643    0.072086  0.190502
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    644    0.072476  0.194210
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    645    0.072136  0.192691
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    646    0.072039  0.189338
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    647    0.072112  0.191993
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    648    0.071291  0.200805
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    649    0.072215  0.192942
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    650    0.071986  0.194713
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    651    0.071889  0.194932
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    652    0.071689  0.200787
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    653    0.071452  0.195599
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    654    0.070941  0.193269
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    655    0.071437  0.192362
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    656    0.070931  0.190370
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    657    0.071535  0.198331
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    658    0.071333  0.192941
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    659    0.071228  0.192139
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    660    0.071295  0.192382
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    661    0.071500  0.187240
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    662    0.070942  0.192361
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    663    0.071238  0.193351
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    664    0.071112  0.193931
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    665    0.070287  0.196091
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    666    0.071234  0.191216
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    667    0.070462  0.193899
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    668    0.070355  0.199689
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    669    0.069913  0.192755
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    670    0.070605  0.194599
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    671    0.070630  0.194312
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    672    0.070201  0.197332
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    673    0.069600  0.198367
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    674    0.069640  0.199484
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    675    0.069768  0.198059
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    676    0.069822  0.192838
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    677    0.069787  0.194821
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    678    0.069822  0.193571
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    679    0.069991  0.193585
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    680    0.069831  0.194627
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    681    0.069837  0.194771
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    682    0.069835  0.193053
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    683    0.069547  0.194636
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    684    0.069348  0.194989
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    685    0.069428  0.203082
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    686    0.069450  0.193680
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    687    0.068783  0.193268
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    688    0.069069  0.199182
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    689    0.069380  0.195146
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    690    0.068938  0.196184
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    691    0.069253  0.196889
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    692    0.068782  0.192111
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    693    0.069180  0.197682
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    694    0.068866  0.196152
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    695    0.069557  0.197906
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    696    0.069153  0.199184
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    697    0.069243  0.195127
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    698    0.068415  0.196200
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    699    0.069131  0.196902
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    700    0.068938  0.201696
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    701    0.068545  0.196056
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    702    0.068437  0.195105
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    703    0.068757  0.195682
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    704    0.068424  0.199657
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    705    0.068426  0.197380
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    706    0.068747  0.196432
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    707    0.067973  0.195940
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    708    0.068561  0.200415
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    709    0.068077  0.197836
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    710    0.068055  0.198345
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    711    0.068336  0.197193
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    712    0.068346  0.195738
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    713    0.068057  0.198538
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    714    0.068461  0.197085
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    715    0.068166  0.195188
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    716    0.067846  0.194864
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    717    0.068264  0.197507
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    718    0.067940  0.197188
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    719    0.068409  0.198098
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    720    0.068029  0.200380
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    721    0.068538  0.199859
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    722    0.068318  0.198665
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    723    0.067818  0.196744
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    724    0.067652  0.201259
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    725    0.068186  0.198650
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    726    0.067966  0.199356
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    727    0.067646  0.195707
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    728    0.067938  0.199031
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    729    0.067604  0.197260
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    730    0.067692  0.198321
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    731    0.068111  0.196392
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    732    0.067613  0.200643
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    733    0.067653  0.201143
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    734    0.067400  0.197350
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    735    0.067584  0.200601
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    736    0.067935  0.198719
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    737    0.067946  0.197948
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    738    0.068056  0.199666
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    739    0.067403  0.198917
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    740    0.067482  0.199755
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    741    0.067863  0.198635
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    742    0.067355  0.199046
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    743    0.067867  0.199075
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    744    0.067717  0.197998
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    745    0.067603  0.199751
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    746    0.067712  0.200804
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    747    0.067488  0.198924
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    748    0.067692  0.197972
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    749    0.067487  0.199312
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    750    0.067668  0.196668
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    751    0.067203  0.198272
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    752    0.067768  0.198410
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    753    0.067657  0.198324
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    754    0.067673  0.198493
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    755    0.067603  0.198208
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    756    0.067794  0.198732
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    757    0.067571  0.198759
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    758    0.073182  0.391887
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    759    0.089545  0.232478
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    760    0.093887  0.331942
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    761    0.096226  0.457847
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    762    0.098161  0.219219
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    763    0.097510  0.394754
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    764    0.094444  0.230170
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    765    0.091978  0.264071
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    766    0.091326  0.223180
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    767    0.090351  0.184374
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    768    0.089301  0.183099
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    769    0.089493  0.254881
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    770    0.088480  0.351173
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    771    0.088817  0.263693
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    772    0.088860  0.183676
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    773    0.087762  0.359944
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    774    0.087821  0.186934
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    775    0.087351  0.184348
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    776    0.085735  0.190432
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    777    0.087039  0.203089
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    778    0.087079  0.182836
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    779    0.087503  0.188021
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    780    0.086257  0.202340
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    781    0.085132  0.206435
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    782    0.085414  0.184861
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    783    0.085117  0.186450
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    784    0.084740  0.189436
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    785    0.085036  0.187921
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    786    0.085752  0.226326
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    787    0.085066  0.288347
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    788    0.085627  0.185661
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    789    0.084512  0.307298
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    790    0.084387  0.394923
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    791    0.083699  0.185122
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    792    0.083888  0.189502
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    793    0.085253  0.193482
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    794    0.084572  0.200302
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    795    0.084252  0.184044
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    796    0.083751  0.187387
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    797    0.084029  0.307048
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    798    0.084570  0.201008
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    799    0.084062  0.304988
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    800    0.083020  0.216664
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    801    0.083112  0.188251
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    802    0.082470  0.198877
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    803    0.082477  0.200832
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    804    0.082233  0.213288
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    805    0.082970  0.189011
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    806    0.082118  0.187548
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    807    0.082965  0.186246
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    808    0.083061  0.189646
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    809    0.082970  0.371029
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    810    0.082472  0.221528
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    811    0.082643  0.237028
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    812    0.082397  0.200579
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    813    0.083517  0.303805
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    814    0.082558  0.268312
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    815    0.081758  0.195069
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    816    0.081482  0.295088
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    817    0.081894  0.305638
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    818    0.082148  0.329468
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    819    0.081498  0.199306
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    820    0.081502  0.189304
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    821    0.081308  0.186269
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    822    0.080519  0.203299
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    823    0.081765  0.234939
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    824    0.080650  0.200779
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    825    0.079835  0.218898
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    826    0.081759  0.187832
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    827    0.080739  0.183975
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    828    0.080996  0.249121
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    829    0.081140  0.188271
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    830    0.080856  0.214590
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    831    0.081711  0.303214
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    832    0.080619  0.204983
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    833    0.081103  0.204576
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    834    0.081184  0.228100
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    835    0.080357  0.192036
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    836    0.080982  0.225389
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    837    0.080198  0.196232
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    838    0.079713  0.196226
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    839    0.080016  0.195981
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    840    0.080581  0.187135
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    841    0.080703  0.361913
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    842    0.079740  0.193855
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    843    0.079593  0.186660
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    844    0.079632  0.190830
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    845    0.080669  0.188250
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    846    0.079789  0.195659
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    847    0.079271  0.212505
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    848    0.079352  0.198121
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    849    0.079072  0.191307
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    850    0.079466  0.209069
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    851    0.078748  0.198782
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    852    0.078462  0.192376
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    853    0.078584  0.209801
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    854    0.078612  0.186675
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    855    0.079317  0.216951
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    856    0.078898  0.394110
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    857    0.078729  0.195314
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    858    0.078674  0.207575
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    859    0.077945  0.197991
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    860    0.078706  0.265077
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    861    0.078460  0.190706
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    862    0.078663  0.190981
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    863    0.078346  0.318531
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    864    0.078590  0.193885
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    865    0.078397  0.295628
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    866    0.077725  0.190673
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    867    0.078294  0.197985
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    868    0.078265  0.195991
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    869    0.077303  0.253086
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    870    0.078271  0.189567
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    871    0.077702  0.188535
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    872    0.076765  0.187850
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    873    0.078015  0.199775
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    874    0.077200  0.194185
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    875    0.077097  0.193108
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    876    0.077467  0.195655
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    877    0.078046  0.230883
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    878    0.076661  0.226630
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    879    0.077130  0.272922
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    880    0.076833  0.202568
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    881    0.076650  0.200092
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    882    0.077388  0.202973
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    883    0.078026  0.191047
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    884    0.076759  0.190523
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    885    0.076035  0.205250
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    886    0.075934  0.226172
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    887    0.076408  0.202520
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    888    0.075793  0.194819
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    889    0.076656  0.228776
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    890    0.077368  0.196204
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    891    0.076744  0.299429
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    892    0.075663  0.198909
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    893    0.075286  0.193434
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    894    0.075695  0.192820
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    895    0.076104  0.205817
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    896    0.076141  0.212729
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    897    0.076251  0.196704
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    898    0.076512  0.200335
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    899    0.075690  0.248419
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    900    0.076117  0.256285
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    901    0.074951  0.216945
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    902    0.075641  0.286717
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    903    0.075023  0.193413
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    904    0.075164  0.195524
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    905    0.075480  0.196306
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    906    0.075489  0.272248
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    907    0.074409  0.231287
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    908    0.074325  0.209325
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    909    0.075234  0.203741
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    910    0.074744  0.192159
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    911    0.074653  0.191383
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    912    0.074614  0.193869
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    913    0.074847  0.382780
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    914    0.075117  0.267876
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    915    0.075122  0.276410
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    916    0.074264  0.329324
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    917    0.075275  0.219201
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    918    0.074553  0.195237
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    919    0.075148  0.204846
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    920    0.074970  0.191019
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    921    0.073937  0.196809
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    922    0.073170  0.198876
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    923    0.073538  0.203378
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    924    0.074677  0.200654
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    925    0.074281  0.198989
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    926    0.073861  0.193355
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    927    0.073622  0.196123
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    928    0.073776  0.209354
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    929    0.074431  0.229702
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    930    0.073329  0.196790
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    931    0.073977  0.194398
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    932    0.073460  0.205452
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    933    0.073741  0.197089
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    934    0.073171  0.240684
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    935    0.072682  0.198591
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    936    0.073115  0.200159
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    937    0.072462  0.193065
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    938    0.072340  0.197387
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    939    0.072354  0.195398
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    940    0.072807  0.198726
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    941    0.072240  0.248075
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    942    0.072369  0.266342
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    943    0.073624  0.193174
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    944    0.073550  0.204493
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    945    0.072557  0.197853
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    946    0.072632  0.194206
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    947    0.072946  0.192796
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    948    0.072911  0.199973
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    949    0.071946  0.198488
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    950    0.072150  0.204253
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    951    0.072205  0.196616
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    952    0.072152  0.209038
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    953    0.071308  0.216733
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    954    0.071692  0.195988
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    955    0.071896  0.198546
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    956    0.071635  0.201905
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    957    0.072317  0.202754
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    958    0.071520  0.195811
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    959    0.071742  0.215537
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    960    0.071986  0.197127
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    961    0.071827  0.200296
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    962    0.071274  0.223168
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    963    0.071978  0.230609
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    964    0.072250  0.196129
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    965    0.070755  0.199719
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    966    0.071525  0.198092
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    967    0.070997  0.197954
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    968    0.070614  0.209492
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    969    0.070746  0.217164
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    970    0.070710  0.209952
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    971    0.070937  0.200624
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    972    0.070667  0.235504
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    973    0.071123  0.199883
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    974    0.071158  0.199567
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    975    0.071855  0.198911
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    976    0.070709  0.207201
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    977    0.070414  0.203278
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    978    0.070354  0.215763
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    979    0.069962  0.201917
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    980    0.071084  0.229741
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    981    0.070442  0.235126
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    982    0.070495  0.201928
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    983    0.069461  0.203943
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    984    0.069435  0.200973
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    985    0.069961  0.202523
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    986    0.069666  0.202950
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    987    0.069809  0.198444
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    988    0.070281  0.226065
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    989    0.069953  0.219029
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    990    0.069736  0.232965
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    991    0.069615  0.216941
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    992    0.070440  0.200193
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    993    0.069106  0.206194
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    994    0.069703  0.203288
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    995    0.069951  0.211584
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    996    0.069269  0.212559
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    997    0.068926  0.202411
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    998    0.069419  0.206976
+1  Best    178    0.131533  0.152513
+
+   name  epoch  train_loss  val_loss
+0  Last    999    0.068908  0.204621
+1  Best    178    0.131533  0.152513
+
