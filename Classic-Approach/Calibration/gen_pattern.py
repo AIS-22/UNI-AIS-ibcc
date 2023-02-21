@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+#fetched from https://github.com/opencv/opencv/blob/4.x/doc/pattern_tools
 """gen_pattern.py
 Usage example:
 python gen_pattern.py -o out.svg -r 11 -c 8 -T circles -s 20.0 -R 5.0 -u mm -w 216 -h 279
@@ -18,7 +19,6 @@ python gen_pattern.py -o out.svg -r 11 -c 8 -T circles -s 20.0 -R 5.0 -u mm -w 2
 """
 
 import argparse
-
 from svgfig import *
 
 

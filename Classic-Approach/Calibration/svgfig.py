@@ -15,6 +15,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 #
 # Full licence is in the file COPYING and at http://www.gnu.org/copyleft/gpl.html
+#fetched from https://github.com/opencv/opencv/blob/4.x/doc/pattern_tools
 
 import re, codecs, os, platform, copy, itertools, math, cmath, random, sys, copy
 _epsilon = 1e-5
