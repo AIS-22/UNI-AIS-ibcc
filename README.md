@@ -12,4 +12,4 @@
 3. Results
    * **Classic:** Classic-Approach/object_images/book3d.blend
    * **DL:** deepLearning1/results/
-4. Report of the Project (Report_Hafner_Langer_Radovic)
+4. Report of the Project (Report_Hafner_Langer_Radovic.html)
